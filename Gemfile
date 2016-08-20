@@ -8,6 +8,8 @@ gem 'pg'
 gem 'rack-cors', :require => 'rack/cors'
 gem 'json'
 gem 'active_model_serializers','~>0.10.0.rc5'
+gem 'bundler'
+gem 'devise'
 
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
